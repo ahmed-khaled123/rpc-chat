@@ -114,7 +114,7 @@ go run client.go
 
 ## 🔗 Links
 
-- **Docker Hub Repository:** [https://hub.docker.com/repository/docker/ahmedelbanna123/rpc-chat-server/general](https://hub.docker.com/repository/docker/ahmedelbanna123/rpc-chat-server/general)
+- **Docker Hub Repository:** [https://hub.docker.com/repository/docker/ahmedelbanna123/rpc-chat-server/general]
 
 ---
 
